@@ -6,4 +6,5 @@ There is three different categories of Design patters: <b>creational</b>, <b>str
 <p>This pattern is about how classes can be composed to form larger structures.</p>
 <ul>
     <li><a href="https://github.com/gedeaoaraujo/design-patterns/tree/master/src/adapter">Adapter</a></li>
+    <li><a href="https://github.com/gedeaoaraujo/design-patterns/tree/master/src/facade">Facade</a></li>
 </ul>
