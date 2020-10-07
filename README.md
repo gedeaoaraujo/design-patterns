@@ -22,7 +22,7 @@ There is three different categories of Design patters: <b>creational</b>, <b>str
     <li><a href="https://github.com/gedeaoaraujo/design-patterns/tree/master/src/composite">Composite</a></li>
     <li><a href="https://github.com/gedeaoaraujo/design-patterns/tree/master/src/decorator">Decorator</a></li>
     <li><a href="https://github.com/gedeaoaraujo/design-patterns/tree/master/src/facade">Facade</a></li>
-    <li><a href="#">Flyweight</a></li>
+    <li><a href="https://github.com/gedeaoaraujo/design-patterns/tree/master/src/flyweight">Flyweight</a></li>
     <li><a href="#">Proxy</a></li>
 </ul>
 
